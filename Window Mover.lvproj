@@ -11,6 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="COPYRIGHT" Type="Document" URL="../COPYRIGHT"/>
+		<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 		<Item Name="Test Move Panel.vi" Type="VI" URL="../Test Move Panel.vi"/>
 		<Item Name="Window Mover.lvlib" Type="Library" URL="../Window Mover/Window Mover.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -45,7 +47,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E5875D68-91A0-41C0-B14E-037D437B4F78}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">WindowMover.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Window Mover/WindowMover.lvlibp</Property>
